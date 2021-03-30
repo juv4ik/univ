@@ -1,0 +1,10 @@
+[6296:6748:0329/153405.096:INFO:CONSOLE(22)] "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.", source: https://gc.onliner.by/assets/conversion.701fa3d56660556b.js (22)
+[6296:6748:0329/153405.138:INFO:CONSOLE(1)] "Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools", source: https://profile.onliner.by/assets/user-extended.2fb3b51a1200f7cc.js (1)
+[6296:6748:0329/153405.379:INFO:CONSOLE(1)] "[WebPushService]: The user has blocked notifications.", source: https://chats.onliner.by/assets/helper-iframe.462748c30822507c.js (1)
+[6296:6748:0329/153405.813:INFO:CONSOLE(1)] "11.509999999999998", source: https://banners.adfox.ru/210323/adfox/1133200/4225103/index_100Px200_adfox.min.js (1)
+[6828:6480:0329/153649.015:ERROR:cache_util_win.cc(20)] Unable to move the cache: Отказано в доступе. (0x5)
+[6828:6480:0329/153649.015:ERROR:cache_util.cc(144)] Unable to move cache folder C:\Users\FUNNY\PycharmProjects\onliner_news\onl1\ShaderCache\GPUCache to C:\Users\FUNNY\PycharmProjects\onliner_news\onl1\ShaderCache\old_GPUCache_000
+[6828:6480:0329/153649.015:ERROR:disk_cache.cc(184)] Unable to create cache
+[6828:6480:0329/153649.015:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[6296:6748:0329/162042.041:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

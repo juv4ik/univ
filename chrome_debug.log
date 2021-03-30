@@ -1,0 +1,9 @@
+[7164:6412:0329/152505.150:ERROR:cache_util_win.cc(20)] Unable to move the cache: Отказано в доступе. (0x5)
+[7164:6412:0329/152505.151:ERROR:cache_util.cc(144)] Unable to move cache folder C:\Users\FUNNY\PycharmProjects\onliner_news\ShaderCache\GPUCache to C:\Users\FUNNY\PycharmProjects\onliner_news\ShaderCache\old_GPUCache_000
+[7164:6412:0329/152505.151:ERROR:disk_cache.cc(184)] Unable to create cache
+[7164:6412:0329/152505.152:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[6808:6900:0329/152554.324:ERROR:cache_util_win.cc(20)] Unable to move the cache: Отказано в доступе. (0x5)
+[6808:6900:0329/152554.325:ERROR:cache_util.cc(144)] Unable to move cache folder C:\Users\FUNNY\PycharmProjects\onliner_news\ShaderCache\GPUCache to C:\Users\FUNNY\PycharmProjects\onliner_news\ShaderCache\old_GPUCache_000
+[6808:6900:0329/152554.325:ERROR:disk_cache.cc(184)] Unable to create cache
+[6808:6900:0329/152554.325:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[8568:5692:0329/153618.765:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

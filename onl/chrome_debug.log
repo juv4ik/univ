@@ -1,0 +1,9 @@
+[6764:8464:0329/152708.657:INFO:CONSOLE(22)] "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.", source: https://gc.onliner.by/assets/conversion.701fa3d56660556b.js (22)
+[6764:8464:0329/152708.714:INFO:CONSOLE(1)] "Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools", source: https://profile.onliner.by/assets/user-extended.2fb3b51a1200f7cc.js (1)
+[6764:8464:0329/152708.844:INFO:CONSOLE(1)] "[WebPushService]: The user has blocked notifications.", source: https://chats.onliner.by/assets/helper-iframe.462748c30822507c.js (1)
+[8544:5956:0329/153251.519:ERROR:cache_util_win.cc(20)] Unable to move the cache: Отказано в доступе. (0x5)
+[8544:5956:0329/153251.520:ERROR:cache_util.cc(144)] Unable to move cache folder C:\Users\FUNNY\PycharmProjects\onliner_news\onl\ShaderCache\GPUCache to C:\Users\FUNNY\PycharmProjects\onliner_news\onl\ShaderCache\old_GPUCache_000
+[8544:5956:0329/153251.520:ERROR:disk_cache.cc(184)] Unable to create cache
+[8544:5956:0329/153251.520:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[6764:8464:0329/153404.172:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
